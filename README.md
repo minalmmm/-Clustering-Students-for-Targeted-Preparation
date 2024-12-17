@@ -35,10 +35,10 @@ The goal of this project is to:
 
 ## Output 
 ![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
-![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
-![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
-![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
-![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
-![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
-![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img2.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img3.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img4.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img5.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img6.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img7.png)
        
