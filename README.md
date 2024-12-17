@@ -33,21 +33,12 @@ The goal of this project is to:
 - **Python** (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)  
 - **Streamlit** for building an interactive dashboard.  
 
----
-
-## Dashboard  
-The Streamlit dashboard provides the following features:  
-- Upload your dataset for clustering.  
-- Visualizations, including scatter plots, bar charts, and heatmaps.  
-- Downloadable CSV files of clustered data.  
-
----
-
-## Getting Started  
-
-### Prerequisites  
-1. Install Python (>=3.7).  
-2. Clone this repository:  
-   ```bash
-   git clone https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation.git
-
+## Output 
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/-Clustering-Students-for-Targeted-Preparation/blob/main/images/img1.png)
+       
